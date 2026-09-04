@@ -190,7 +190,6 @@ It routes high-confidence cases for manual or secondary review.
 - Streamlit Community Cloud
 
 ---
-
 ## 📁 Deployment Repository
 
 ```text
@@ -198,8 +197,8 @@ RazorGuard/
 ├── app.py
 ├── razorguard_dashboard_data.csv
 ├── razorguard_audit_log.csv
+├── architecture_diagram.png
 ├── requirements.txt
 └── README.md
-## 🏗️ Architecture
 
 ![RazorGuard Architecture](architecture_diagram.png)
