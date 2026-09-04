@@ -200,3 +200,6 @@ RazorGuard/
 ├── razorguard_audit_log.csv
 ├── requirements.txt
 └── README.md
+## 🏗️ Architecture
+
+![RazorGuard Architecture](architecture_diagram.png)
