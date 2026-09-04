@@ -201,4 +201,13 @@ RazorGuard/
 ├── requirements.txt
 └── README.md
 
+**🔮 Future Work**
+Potential extensions include:
+  real payment datasets with appropriate privacy controls
+  probability calibration
+  delayed fraud-label feedback
+  drift monitoring
+  richer model-attribution methods
+  adaptive verification policies
+  merchant-specific cost models
 ![RazorGuard Architecture](architecture_diagram.png)
